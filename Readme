@@ -1,0 +1,67 @@
+# Frontend Mentor - Social proof section solution
+
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the section depending on their device's screen size
+
+### Screenshot
+
+![](./Social_Proof_Desktop)
+
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/BenChis/Social_Proof/new/main)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+### What I learned
+
+Some layouts can be tricky to be set properly with img backgrounds, because fixing one issue results in another one. On the one hand if I narrow my screen the background fits, but the ratio of the margin around doesn´t. On the other hand the oppsoite approach the img doesn´t fit in my screen ratio. 
+
+To see how you can add code snippets, see below:
+
+
+### Continued development
+
+I would like to to improve more in layouts and make them more accescible.
+
+
+
+## Author
+
+- Website - [Benjamin]
+- Frontend Mentor - [@BenChis](https://www.frontendmentor.io/profile/BenChis)
+
+
